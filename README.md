@@ -1,2 +1,4 @@
 # freeCodeCamp
-Free Code Camp - Working repository
+## Free Code Camp - Learning repository
+### Courses, learning paths, live sessions content and more...
+### "Never stop learning"
